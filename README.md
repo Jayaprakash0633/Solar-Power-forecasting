@@ -44,9 +44,9 @@ and machine learning / deep learning models.
 | **Random Forest** | 0.0352     | 0.0073     | 0.8123 |
 
 ## 🛠️ Requirements
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-tensorflow
+pandas,
+numpy,
+matplotlib,
+seaborn,
+scikit-learn,
+tensorflow.
